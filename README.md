@@ -6,8 +6,7 @@ A **modern portfolio UI** built using **HTML & CSS**.
 ---
 
 ## 🚀 Live Demo
-👉 [View on GitHub Pages](https://manish-850.github.io/Portfolio-UI-v2/)  
-*(Update the link if deployed elsewhere)*
+👉 [View on GitHub Pages](https://manish-850.github.io/Portfolio-UI-v2/)
 
 ---
 
