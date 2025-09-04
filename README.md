@@ -6,7 +6,7 @@ A **modern portfolio UI** built using **HTML & CSS**.
 ---
 
 ## 🚀 Live Demo
-👉 [View on GitHub Pages](https://manish-850.github.io/gentlerain.ai/)  
+👉 [View on GitHub Pages](https://manish-850.github.io/Portfolio-UI-v2/)  
 *(Update the link if deployed elsewhere)*
 
 ---
@@ -48,7 +48,7 @@ A **modern portfolio UI** built using **HTML & CSS**.
 ## ⚡ Getting Started
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/portfolio-ui.git
+   git clone https://github.com/manish-850/portfolio-ui.git
    ```
 2. Open `index.html` in your browser.  
 3. Customize text, images, and links as needed.  
@@ -69,4 +69,4 @@ Design and content are placeholders. Replace with your own portfolio details.
 
 ---
 
-💡 *Made with ❤️ by [Manish Kumar](https://github.com/manish-850)*
+💡 *Made with ❤️ by [Manish](https://github.com/manish-850)*
